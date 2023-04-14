@@ -4,21 +4,17 @@
 #include <iostream>
 using namespace std;
 
-string name;
-string arrayNames[];
+string name1;
+string name2;
+Boat arrayObjetos[];
 
 void start() {
-    int boatCount;
-    cout << ("cuantos barcos van a jugar?");
-    cin >> boatCount;
-    for (int i = 0; i < boatCount; i++) {
-        cout << "Cual es tu nombre: ";
-        cin >> name;
-        arrayNames[i] = name;
 
-        
-    }
+
 }
+
+Boat boat1(name1, 0, true);
+Boat boat2(name2, 0, true);
 
 int main()
 {
