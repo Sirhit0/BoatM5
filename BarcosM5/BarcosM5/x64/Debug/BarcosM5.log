@@ -1,4 +1,4 @@
 ﻿  BarcosM5.cpp
-D:\1DAW\M5\barcos\BoatM5\BarcosM5\BarcosM5\BarcosM5.cpp(3,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
-BarcosM5.obj : error LNK2001: símbolo externo "class Boat * arrayObjetos" (?arrayObjetos@@3PAVBoat@@A) sin resolver
-D:\1DAW\M5\barcos\BoatM5\BarcosM5\x64\Debug\BarcosM5.exe : fatal error LNK1120: 1 externos sin resolver
+C:\Users\noel\Documents\BoatM5\BarcosM5\BarcosM5\BarcosM5.cpp(3,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\noel\Documents\BoatM5\BarcosM5\BarcosM5\BarcosM5.cpp(60,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  BarcosM5.vcxproj -> C:\Users\noel\Documents\BoatM5\BarcosM5\x64\Debug\BarcosM5.exe
